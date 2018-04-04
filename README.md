@@ -1,6 +1,8 @@
-<h1 align="center">SSPanel V3 Mod UI Code Snippet</h1>
+<a href="https://overwall.org" target="_blank"><img src="https://shadow.elemecdn.com/gh/x-gslb/s@0x02/site/img/logo/logo-460.png" alt="logo" width="70" height="70" align="right"></a>
 
-<h4 align="center">Make ss-panel-v3-mod great again</h4>
+# SSPanel V3 Mod UI Code Snippet
+
+> Make ss-panel-v3-mod great again
 
 ## Introduction 介绍
 
@@ -9,6 +11,7 @@
 ## Menu 目录
 
 - [在用户中心首页显示账户剩余天数和套餐剩余天数](./expire-days.md)
+- [在账户信息页面显示历史累计返利金额](./payback-num-all.md)
 
 ## Maintainer 维护者
 
